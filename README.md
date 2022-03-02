@@ -1,6 +1,7 @@
 
 🧗🏻‍♀️🤸🏻‍♀🩰⛸🎬🎹🎻
-<img align="right" height="135" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
+
+<img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
 
 ### 🛠 Languages and Tools
 <!-- <p align="left">
@@ -35,7 +36,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FCC624)&nbsp;\
