@@ -1,7 +1,7 @@
 
 🧗🏻‍♀️🤸🏻‍♀🩰⛸🎬🎹🎻
 
-<img align="right" height="110" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
+<img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
 
 ### 🛠 Languages and Tools
 <!-- <p align="left">
@@ -38,8 +38,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FCC624)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FCC624)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
