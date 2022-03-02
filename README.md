@@ -1,7 +1,7 @@
 
 🧗🏻‍♀️🤸🏻‍♀🩰⛸🎬🎹🎻
 
-<img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
+<img align="right" height="110" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
 
 ### 🛠 Languages and Tools
 <!-- <p align="left">
