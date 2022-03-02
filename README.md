@@ -1,25 +1,51 @@
 
 🧗🏻‍♀️🤸🏻‍♀🩰⛸🎬🎹🎻
+<img align="right" height="135" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
 
 ### 🛠 Languages and Tools
-<img align="right" height="130" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
-
+<!-- <p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57"/>
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FCC624"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA"/>
+  <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733"/>
+</p>
+ -->
+                                                                   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FCC624)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA)
-
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733)
+ 
 ### 📈 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true"/>
