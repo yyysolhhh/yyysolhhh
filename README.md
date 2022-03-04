@@ -49,7 +49,7 @@
  
 ### 📈 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub Stats&hide=stars,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyysolhhh&layout=compact&langs_count=9&theme=blueberry"/>
 </p>
 <p align="center">
