@@ -50,7 +50,7 @@
 ### 📈 GitHub Analytics
 <p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yyysolhhh&theme=algolia" alt="yyysolhhh"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyysolhhh&layout=compact&langs_count=9&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyysolhhh&layout=compact&langs_count=9&theme=algolia&exclude_repo=github-slideshow"/>
 </p>
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub Stats&hide=stars"/>
