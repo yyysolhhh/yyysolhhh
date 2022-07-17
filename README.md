@@ -45,6 +45,7 @@
 ### 📈 GitHub Analytics
 <p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yyysolhhh&theme=algolia" alt="yyysolhhh"/>
+  &emsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyysolhhh&layout=compact&langs_count=9&theme=algolia&exclude_repo=yyysolhhh.github.io,github-slideshow"/>
 </p>
 <p align="center">
