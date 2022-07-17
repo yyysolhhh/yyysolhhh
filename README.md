@@ -1,7 +1,7 @@
 <!--
 # 🧗🏻‍♀️&nbsp;&nbsp;&nbsp;🤸🏻‍♀&nbsp;&nbsp;&nbsp;🩰&nbsp;&nbsp;&nbsp;⛸&nbsp;&nbsp;&nbsp;🎬&nbsp;&nbsp;&nbsp;🎹&nbsp;&nbsp;&nbsp;🎻&nbsp;&nbsp;&nbsp;
 -->
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Extended&size=70&duration=3000&background=0D1117&center=true&multiline=true&width=1050&height=90&lines=I+must+not+fear.+Fear+is+the+mind-killer.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Extended&size=70&duration=3000&background=07102A&center=true&multiline=true&width=1050&height=90&lines=I+must+not+fear.+Fear+is+the+mind-killer.)](https://git.io/typing-svg)
 
 <img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
 
