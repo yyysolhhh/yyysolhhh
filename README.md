@@ -1,11 +1,17 @@
 <!--
 # 🧗🏻‍♀️&nbsp;&nbsp;&nbsp;🤸🏻‍♀&nbsp;&nbsp;&nbsp;🩰&nbsp;&nbsp;&nbsp;⛸&nbsp;&nbsp;&nbsp;🎬&nbsp;&nbsp;&nbsp;🎹&nbsp;&nbsp;&nbsp;🎻&nbsp;&nbsp;&nbsp;
--->
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Extended&size=70&duration=3000&background=07102A&center=true&multiline=true&width=1050&height=90&lines=I+must+not+fear.+Fear+is+the+mind-killer.)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39&size=70&pause=1000&color=A99FFF&background=000000CD&center=true&vCenter=true&random=false&width=435&lines=yyysolhhh)](https://git.io/typing-svg)
 
+<!--
 <img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
+-->
 
+<!--
 ### 🛠 Languages and Tools
+-->
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
@@ -32,7 +38,8 @@
   <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733"/>
 </p>
  -->
-                                                                   
+
+<!--
 ![Python](https://img.shields.io/badge/-Python-060F2C?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-060F2C?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-060F2C?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -43,7 +50,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-060F2C?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-060F2C?style=flat&logo=Linux&logoColor=FCC624)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-060F2C?style=flat&logo=Vim&logoColor=019733)
- 
+-->
+
+<!--
 ### 📈 GitHub Analytics
 <p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yyysolhhh&theme=algolia" alt="yyysolhhh"/>
@@ -58,7 +67,7 @@
 <a href="https://instagram.com/yyysolhhh"><img align="left" src="https://img.shields.io/badge/-@yyysolhhh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyysolhhh&count_bg=%2382A9FE&title_bg=%23242938&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-
+-->
 
 
 <!--
