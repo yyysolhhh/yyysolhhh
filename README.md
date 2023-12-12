@@ -1,7 +1,8 @@
 <!--
 # 🧗🏻‍♀️&nbsp;&nbsp;&nbsp;🤸🏻‍♀&nbsp;&nbsp;&nbsp;🩰&nbsp;&nbsp;&nbsp;⛸&nbsp;&nbsp;&nbsp;🎬&nbsp;&nbsp;&nbsp;🎹&nbsp;&nbsp;&nbsp;🎻&nbsp;&nbsp;&nbsp;
-
+<p align="center">
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Extended&size=70&duration=3000&background=07102A&center=true&multiline=true&width=1050&height=90&lines=I+must+not+fear.+Fear+is+the+mind-killer.)](https://git.io/typing-svg)
+</p>
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39&size=70&pause=1000&color=A99FFF&background=000000CD&center=true&vCenter=true&random=false&width=435&lines=yyysolhhh)](https://git.io/typing-svg)
 
