@@ -56,11 +56,11 @@
 -->
 
 <p align="center">
-    <!-- <a align="left" href="https://github.com/ysolarh"><img align="left" src="https://img.shields.io/badge/-ysolarh-57c0dd?style=flat&logo=Github&logoColor=252B36"/></a> -->
     <img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyysolhhh&count_bg=%2382A9FE&title_bg=%23242938&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <a href="https://github.com/ysolarh"><img align="right" width=10 height=10 src="https://img.shields.io/badge/-ysolarh-7da1ee?style=flat&logo=Github&logoColor=252B36"/></a>
 </p>
 
-<div><hr>
+<div><hr></div>
 
 
 <p align="center">
