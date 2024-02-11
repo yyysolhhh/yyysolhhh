@@ -14,32 +14,32 @@
 <!-- ### 🛠 Languages and Tools -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-21232A?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-C-21232A?style=flat&logo=C&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/-C++-21232A?style=flat&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/>
-  <img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-HTML-21232A?style=flat&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-21232A?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/>
+  <code><img src="https://img.shields.io/badge/-Python-21232A?style=flat&logo=python"/></code>
+  <code><img src="https://img.shields.io/badge/-C-21232A?style=flat&logo=C&logoColor=A8B9CC"/></code>
+  <code><img src="https://img.shields.io/badge/-C++-21232A?style=flat&logo=cplusplus&logoColor=00599C"/></code>
+  <code><img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/></code>
+  <code><img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/></code>
+  <code><img src="https://img.shields.io/badge/-HTML-21232A?style=flat&logo=HTML5"/></code>
+  <code><img src="https://img.shields.io/badge/-CSS-21232A?style=flat&logo=CSS3&logoColor=1572B6"/></code>
+  <code><img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/></code>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/>
-  <img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/-Linux-21232A?style=flat&logo=Linux&logoColor=FCC624"/>
+  <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask&logoColor=4479A1"/></code>
+  <code><img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/></code>
+  <code><img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/></code>
+  <code><img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/></code>
+  <code><img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/></code>
+  <code><img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/></code>
+  <code><img src="https://img.shields.io/badge/-Linux-21232A?style=flat&logo=Linux&logoColor=FCC624"/></code>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/>
-  <img src="https://img.shields.io/badge/-Neovim-21232A?style=flat&logo=neovim&logoColor=019733"/>
-  <img src="https://img.shields.io/badge/-VSCode-21232A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-Pycharm-21232A?style=flat&logo=pycharm"/>
-  <img src="https://img.shields.io/badge/-IntelliJ-21232A?style=flat&logo=IntelliJ-IDEA"/>
-  <img src="https://img.shields.io/badge/-Postman-21232A?style=flat&logo=postman"/>
-  <img src="https://img.shields.io/badge/-Virtualbox-21232A?style=flat&logo=virtualbox"/>
+  <code><img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/></code>
+  <code><img src="https://img.shields.io/badge/-Neovim-21232A?style=flat&logo=neovim&logoColor=019733"/></code>
+  <code><img src="https://img.shields.io/badge/-VSCode-21232A?style=flat&logo=visual-studio-code&logoColor=007ACC"/></code>
+  <code><img src="https://img.shields.io/badge/-Pycharm-21232A?style=flat&logo=pycharm"/></code>
+  <code><img src="https://img.shields.io/badge/-IntelliJ-21232A?style=flat&logo=IntelliJ-IDEA"/></code>
+  <code><img src="https://img.shields.io/badge/-Postman-21232A?style=flat&logo=postman"/></code>
+  <code><img src="https://img.shields.io/badge/-Virtualbox-21232A?style=flat&logo=virtualbox"/></code>
 </p>
 <!--
 <p align="center">
