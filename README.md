@@ -6,9 +6,38 @@
 
 <!---
 <img align="right" height="115" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solbaram"/>
+<p align="center">
+  <img width="200" src="">
+</p>
 -->
 
 <!-- ### 🛠 Languages and Tools -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-21232A?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/-C-21232A?style=flat&logo=C&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-C++-21232A?style=flat&logo=cplusplus&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/>
+  <img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-HTML-21232A?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS-21232A?style=flat&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/>
+  <img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-Linux-21232A?style=flat&logo=Linux&logoColor=FCC624"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/>
+  <img src="https://img.shields.io/badge/-VSCode-21232A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/-Pycharm-21232A?style=flat&logo=pycharm"/>
+  <img src="https://img.shields.io/badge/-IntelliJ-21232A?style=flat&logo=IntelliJ-IDEA"/>
+  <img src="https://img.shields.io/badge/-Postman-21232A?style=flat&logo=postman"/>
+</p>
 <!--
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-7DA1EE?style=flat&logo=python"/>
@@ -31,6 +60,7 @@
   <img src="https://img.shields.io/badge/-Git-7DA1EE?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-7DA1EE?style=flat&logo=github"/>
   <img src="https://img.shields.io/badge/-Markdown-7DA1EE?style=flat&logo=markdown"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-21232A?style=flat&logo=bootstrap"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vim-7DA1EE?style=flat&logo=Vim&logoColor=019733"/>
@@ -67,7 +97,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000"/>
 
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=8&card_width=320&title_color=title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=8&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow"/>
 </p>
 
 
