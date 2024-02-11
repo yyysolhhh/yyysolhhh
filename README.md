@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/>
   <img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/>
@@ -33,6 +34,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/>
+  <img src="https://img.shields.io/badge/-Neovim-21232A?style=flat&logo=neovim&logoColor=019733"/>
   <img src="https://img.shields.io/badge/-VSCode-21232A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-Pycharm-21232A?style=flat&logo=pycharm"/>
   <img src="https://img.shields.io/badge/-IntelliJ-21232A?style=flat&logo=IntelliJ-IDEA"/>
