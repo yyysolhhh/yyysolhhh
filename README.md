@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-21232A?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-C-21232A?style=flat&logo=C&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/-C++-21232A?style=flat&logo=cplusplus&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-C++-21232A?style=flat&logo=cplusplus&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/>
   <img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML-21232A?style=flat&logo=HTML5"/>
