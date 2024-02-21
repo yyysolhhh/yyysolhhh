@@ -24,7 +24,8 @@
   <code><img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/></code>
 </p>
 <p align="center">
-  <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask&logoColor=4479A1"/></code>
+  <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask"/></code>
+  <code><img src="https://img.shields.io/badge/-Django-21232A?style=flat&logo=django&logoColor=092E20"/></code>
   <code><img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/></code>
   <code><img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/></code>
   <code><img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/></code>
@@ -100,7 +101,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000"/>
 
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=10&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box"/>
 </p>
 
 <p align="center">
