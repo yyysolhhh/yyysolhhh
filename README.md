@@ -24,11 +24,16 @@
   <code><img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/></code>
 </p>
 <p align="center">
-  <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask"/></code>
   <code><img src="https://img.shields.io/badge/-Django-21232A?style=flat&logo=django&logoColor=092E20"/></code>
+  <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask"/></code>
+  <code><img src="https://img.shields.io/badge/-FastAPI-21232A?style=flat&logo=fastapi&logoColor=009688"/></code>
   <code><img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4479A1"/></code>
   <code><img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/></code>
+</p>
+<p align="center">
+  <code><img src="https://img.shields.io/badge/-Docker-21232A?style=flat&logo=docker&logoColor=2496ED"/></code>
   <code><img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/></code>
+  <code><img src="https://img.shields.io/badge/-Ncloud-21232A?style=flat&logo=ncloud"/></code>
   <code><img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/></code>
   <code><img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/></code>
   <code><img src="https://img.shields.io/badge/-Linux-21232A?style=flat&logo=Linux&logoColor=FCC624"/></code>
