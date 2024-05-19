@@ -95,22 +95,22 @@
 -->
 
 <p align="center">
-    <img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyysolhhh&count_bg=%2382A9FE&title_bg=%23242938&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-    <a href="https://github.com/ysolarh"><img align="right" src="https://img.shields.io/badge/-ysolarh-7da1ee?style=flat&logo=Github&logoColor=252B36"/></a>
+    <img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyysolhhh&count_bg=%2382A9FE&title_bg=%23242938&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false#gh-dark-mode-only"/>
+    <a href="https://github.com/ysolarh"><img align="right" src="https://img.shields.io/badge/-ysolarh-7da1ee?style=flat&logo=Github&logoColor=252B36#gh-dark-mode-only"/></a>
 </p>
 
 <div><hr></div>
 
 
 <p align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
 
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyysolhhh&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyysolhhh&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo#gh-dark-mode-only" width="95%" alt="activity graph">
 </p>
 
 <!--
