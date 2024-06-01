@@ -33,12 +33,13 @@
 </p>
 <p align="center">
   <code><img src="https://img.shields.io/badge/-Docker-21232A?style=flat&logo=docker&logoColor=2496ED"/></code>
-  <code><img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/></code>
-  <code><img src="https://img.shields.io/badge/-Ncloud-21232A?style=flat&logo=ncloud"/></code>
+  <code><img src="https://img.shields.io/badge/-Makefile-21232A?style=flat&logo=makefile"/></code>
   <code><img src="https://img.shields.io/badge/-Githubactions-21232A?style=flat&logo=githubactions"/></code>
   <code><img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/></code>
   <code><img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/></code>
   <code><img src="https://img.shields.io/badge/-Linux-21232A?style=flat&logo=Linux&logoColor=FCC624"/></code>
+  <code><img src="https://img.shields.io/badge/-AWS-21232A?style=flat&logo=amazonaws"/></code>
+  <code><img src="https://img.shields.io/badge/-Ncloud-21232A?style=flat&logo=ncloud"/></code>
 </p>
 <p align="center">
   <code><img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/></code>
