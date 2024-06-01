@@ -28,7 +28,7 @@
   <code><img src="https://img.shields.io/badge/-Flask-21232A?style=flat&logo=flask"/></code>
   <code><img src="https://img.shields.io/badge/-FastAPI-21232A?style=flat&logo=fastapi&logoColor=009688"/></code>
   <code><img src="https://img.shields.io/badge/-MySQL-21232A?style=flat&logo=MySQL&logoColor=4169E1"/></code>
-  <code><img src="https://img.shields.io/badge/-Postgresql-21232A?style=flat&logo=postgresql&logoColor=4479A1"/></code>
+  <code><img src="https://img.shields.io/badge/-PostgreSQL-21232A?style=flat&logo=postgresql&logoColor=4479A1"/></code>
   <code><img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/></code>
   <code><img src="https://img.shields.io/badge/-Redis-21232A?style=flat&logo=redis"/></code>
 </p>
