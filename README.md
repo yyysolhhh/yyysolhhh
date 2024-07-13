@@ -110,7 +110,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
 
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=10000000&hide=typescript&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
 </p>
 
 <p align="center">
